@@ -1,9 +1,9 @@
 export const Footer = () => {
      
 return (
-<nav className="navbar bg-body-tertiary">
-  <div className="container-fluid">
-    <a className="navbar-brand" href="#">Footer</a>
+<nav className="navbar bg-dark-subtle">
+  <div className="container-fluid d-flex justify-content-center align-items">
+    <a className="navbar-brand " href="#">Footer</a>
   </div>
 </nav>
 )

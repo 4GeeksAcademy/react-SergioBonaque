@@ -1,6 +1,6 @@
 export const Jumpbotron = () => {
     return (
-        <div class="h-100 p-5 text-bg-dark rounded-3 bg-secondary-subtle my-3"> <h2 class ="text-secondary-emphasis ">Change the background</h2> <p class= "text-secondary-emphasis">Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then, mix and match with additional component themes and more.</p> <button class="btn btn-outline-light bg-primary" type="button">Example button</button> </div>
+        <div className="h-100 p-5 text-bg-dark rounded-3 bg-secondary-subtle my-3"> <h2 class ="text-secondary-emphasis ">Change the background</h2> <p class= "text-secondary-emphasis">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur ab suscipit aperiam? Error amet, enim quia perspiciatis autem, aliquid, natus distinctio asperiores cumque fuga assumenda non eveniet recusandae in modi?</p> <button class="btn btn-outline-light bg-primary" type="button">Example button</button> </div>
     )
 
 }
