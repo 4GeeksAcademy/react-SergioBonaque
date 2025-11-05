@@ -9,7 +9,7 @@ export const Navbar = () =>  (
                         <a className="nav-link active" aria-current="page" href="#">Home</a>
                         <a className="nav-link" href="#">About</a>
                         <a className="nav-link" href="#">Services</a>
-                        <a class="nav-link disabled" aria-disabled="true">Contact</a>
+                        <a className="nav-link disabled" aria-disabled="true">Contact</a>
                     </div>
                 </div>
             </div>
