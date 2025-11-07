@@ -42,7 +42,6 @@ const Home = () => {
 				<Jumpbotron />
 				<div className="text-center">
 					<div className="d-flex justify-content-center">
-
 						<div className="row">
 							{
 								cardData.map((card, index) => (
